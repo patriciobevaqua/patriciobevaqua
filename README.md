@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently OPEN TO WORK [--](--)
 
-- 🌱 I’m currently learning **react**
-
 - 🔭 Project [Insurance Quoter](https://cotizar.seguroscontar.com.ar) 
 
 - 🔭 Project [Web App](https://kind-sinoussi-a6790f.netlify.app/)
 
 - 🔭 Project [Website in Wordpress](https://grupoceosa.com/)
+
+- 🌱 I’m currently learning **react**
 
 - 📫 How to reach me **patriciobq@gmail.com**
 
