@@ -9,6 +9,8 @@
 
 - 🔭 Project [Web app](https://kind-sinoussi-a6790f.netlify.app/)
 
+- 🔭 Project [Web app](https://grupoceosa.com/)
+
 - 📫 How to reach me **patriciobq@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
