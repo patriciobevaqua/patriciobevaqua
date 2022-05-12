@@ -7,9 +7,9 @@
 
 - 🔭 Project [Insurance Quoter](https://cotizar.seguroscontar.com.ar) 
 
-- 🔭 Project [Web app](https://kind-sinoussi-a6790f.netlify.app/)
+- 🔭 Project [Web App](https://kind-sinoussi-a6790f.netlify.app/)
 
-- 🔭 Project [Web app](https://grupoceosa.com/)
+- 🔭 Project [Website in Wordpress](https://grupoceosa.com/)
 
 - 📫 How to reach me **patriciobq@gmail.com**
 
