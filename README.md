@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **react**
 
-- 🔭 Project [insurance quoter](https://cotizar.seguroscontar.com.ar)
+- 🔭 Project [Insurance Quoter](https://cotizar.seguroscontar.com.ar) 
+
+- 🔭 Project [Web app](https://kind-sinoussi-a6790f.netlify.app/)
 
 - 📫 How to reach me **patriciobq@gmail.com**
 
