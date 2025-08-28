@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently OPEN TO WORK [--](--)
 
-- 🔭 Project [Insurance Quoter](https://cotizar.seguroscontar.com.ar) 
+- 🔭 Project [Insurance Quoter](http://seguros-contar-ssr.web.app) 
 
 - 🔭 Project [Web App](https://kind-sinoussi-a6790f.netlify.app/)
 
