@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patricio Bevaqua</h1>
-<h3 align="center">Functional Analyst & Certified Public Accountant</h3>
+<h3 align="center">Product Owner & Certified Public Accountant</h3>
 
 - 🔭 I’m currently OPEN TO WORK [--](--)
 
