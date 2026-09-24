@@ -47,7 +47,7 @@
   </a>
   ·
   <a href="https://patricio-bevaqua.pages.dev/casos/liquidacion-final.html">
-    Liquidación final
+    Rediseño end-to-end
   </a>
   ·
   <a href="https://patricio-bevaqua.pages.dev/casos/reporting-multiconvenio.html">
