@@ -2,9 +2,6 @@
   <img src="./profile-banner.png" alt="Patricio Bevaqua · Product Owner" width="100%" />
 </p>
 
-
-
-<h1 align="center">Patricio Bevaqua</h1>
 <h3 align="center">
   Product Owner · Functional Analyst · Digital Project Manager
 </h3>
@@ -28,8 +25,6 @@
 | --- | --- | --- |
 | Discovery y definición | Reglas de negocio y requisitos | Backlog, criterios y coordinación |
 | Prioridad y alcance | Procesos complejos | Validación y mejora continua |
-
-### Casos seleccionados
 
 ### Casos seleccionados
 
