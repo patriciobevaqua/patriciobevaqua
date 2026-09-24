@@ -42,11 +42,17 @@
 <h3 align="center">Casos seleccionados</h3>
 
 <p align="center">
-  <a href="URL_CASO_01" target="_blank" rel="noopener noreferrer">Procedimiento → producto</a>
+  <a href="https://patricio-bevaqua.pages.dev/casos/procedimiento-a-producto.html">
+    Procedimiento → producto
+  </a>
   ·
-  <a href="URL_CASO_02" target="_blank" rel="noopener noreferrer">Rediseño end-to-end</a>
+  <a href="https://patricio-bevaqua.pages.dev/casos/liquidacion-final.html">
+    Liquidación final
+  </a>
   ·
-  <a href="URL_CASO_03" target="_blank" rel="noopener noreferrer">Reporting multiconvenio</a>
+  <a href="https://patricio-bevaqua.pages.dev/casos/reporting-multiconvenio.html">
+    Reporting multiconvenio
+  </a>
 </p>
 
 ---
@@ -54,7 +60,7 @@
 <h3 align="center">Contacto</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/patricio-bevaqua/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/patricio-bevaqua/">LinkedIn</a>
   ·
-  <a href="https://patricio-bevaqua.pages.dev/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+  <a href="https://patricio-bevaqua.pages.dev/">Portfolio</a>
 </p>
