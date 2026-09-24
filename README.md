@@ -19,37 +19,42 @@
 
 ---
 
-### En qué aporto valor
+<h3 align="center">En qué aporto valor</h3>
 
-| Producto | Análisis funcional | Entrega |
-| --- | --- | --- |
-| Discovery y definición | Reglas de negocio y requisitos | Backlog, criterios y coordinación |
-| Prioridad y alcance | Procesos complejos | Validación y mejora continua |
+<table align="center">
+  <tr>
+    <th>Producto</th>
+    <th>Análisis funcional</th>
+    <th>Entrega</th>
+  </tr>
+  <tr>
+    <td>Discovery y definición</td>
+    <td>Reglas de negocio y requisitos</td>
+    <td>Backlog, criterios y coordinación</td>
+  </tr>
+  <tr>
+    <td>Prioridad y alcance</td>
+    <td>Procesos complejos</td>
+    <td>Validación y mejora continua</td>
+  </tr>
+</table>
 
-### Casos seleccionados
+<h3 align="center">Casos seleccionados</h3>
 
-<ul>
-  <li>
-    <a href="https://patricio-bevaqua.pages.dev/casos/procedimiento-a-producto.html" target="_blank" rel="noopener noreferrer">
-      Procedimiento → producto
-    </a>
-  </li>
-  <li>
-    <a href="https://patricio-bevaqua.pages.dev/casos/liquidacion-final.html" target="_blank" rel="noopener noreferrer">
-      Rediseño end-to-end
-    </a>
-  </li>
-  <li>
-    <a href="https://patricio-bevaqua.pages.dev/casos/reporting-multiconvenio.html" target="_blank" rel="noopener noreferrer">
-      Reporting multiconvenio
-    </a>
-  </li>
-</ul>
+<p align="center">
+  <a href="URL_CASO_01" target="_blank" rel="noopener noreferrer">Procedimiento → producto</a>
+  ·
+  <a href="URL_CASO_02" target="_blank" rel="noopener noreferrer">Rediseño end-to-end</a>
+  ·
+  <a href="URL_CASO_03" target="_blank" rel="noopener noreferrer">Reporting multiconvenio</a>
+</p>
 
 ---
 
-### Contacto
+<h3 align="center">Contacto</h3>
 
-<a href="https://www.linkedin.com/in/patricio-bevaqua/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-·
-<a href="https://patricio-bevaqua.pages.dev/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/patricio-bevaqua/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  ·
+  <a href="https://patricio-bevaqua.pages.dev/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+</p>
